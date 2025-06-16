@@ -18,7 +18,7 @@ Finance enthusiasts and retail investors
 Data science students & ML learners
 Professionals interested in real-world ML + finance projects
 
-**#🔍 What This Project Does**
+# What This Project Does
 This project is an interactive stock market analysis tool that combines:
 
 **1. 📈 Stock Price Prediction**
@@ -56,7 +56,7 @@ Answers generated using the Gemini 1.5 model from Google Generative AI.
 Combines all features into one dashboard page for a comprehensive market overview.
 It’s a complete ML + finance + AI dashboard — perfect for both beginner investors and data science learners. 
 
-#🔁 Project Workflow
+# 🔁 Project Workflow
 
 
 #🛠️ Tech Stack – All-in-One Stock Intelligence App
@@ -94,7 +94,7 @@ mean_squared_error, mean_absolute_error – from sklearn.metrics
 Git + GitHub – for source code management and collaboration
 
 
-#🌟 Features – All-in-One Stock Intelligence App
+# 🌟 Features – All-in-One Stock Intelligence App
 **🔮 1. LSTM-Based Stock Price Prediction**
 Predicts future closing prices using a deep learning LSTM model.
 Accepts custom date ranges and stock tickers.
