@@ -18,7 +18,7 @@ Finance enthusiasts and retail investors
 Data science students & ML learners
 Professionals interested in real-world ML + finance projects
 
-#🔍 What This Project Does
+**#🔍 What This Project Does**
 This project is an interactive stock market analysis tool that combines:
 
 **1. 📈 Stock Price Prediction**
