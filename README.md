@@ -58,7 +58,7 @@ It’s a complete ML + finance + AI dashboard — perfect for both beginner inve
 
 # 🔁 Project Workflow
 
-![Uploading ChatGPT Image Jun 16, 2025, 03_21_49 PM.png…]()
+![ChatGPT Image Jun 16, 2025, 03_21_49 PM](https://github.com/user-attachments/assets/37528d8b-d3d1-42f4-97f2-94d66ade3e76)
 
 
 # 🛠️ Tech Stack – All-in-One Stock Intelligence App
