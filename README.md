@@ -58,8 +58,10 @@ It’s a complete ML + finance + AI dashboard — perfect for both beginner inve
 
 # 🔁 Project Workflow
 
+![Uploading ChatGPT Image Jun 16, 2025, 03_21_49 PM.png…]()
 
-#🛠️ Tech Stack – All-in-One Stock Intelligence App
+
+# 🛠️ Tech Stack – All-in-One Stock Intelligence App
 **🧠 Machine Learning / Deep Learning**
 TensorFlow / Keras – for building and loading the LSTM model
 scikit-learn (joblib) – for scaling data using MinMaxScaler and saving models
