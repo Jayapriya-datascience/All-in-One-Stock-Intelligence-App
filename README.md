@@ -1,4 +1,4 @@
-#**📘 Project Overview**
+###**📘 Project Overview**
 
 The **All-in-One Stock Intelligence App** is a powerful, interactive web application designed to simplify and enhance stock market analysis **using machine learning, technical indicators, sentiment analysis,** and** AI-driven insights.**
 
