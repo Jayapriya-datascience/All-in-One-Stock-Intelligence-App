@@ -151,3 +151,7 @@ Allows users to download the 7-day forecast as a CSV file for further analysis o
 
 
 
+https://github.com/user-attachments/assets/b6f98d7b-c5b7-4ce3-bd30-60f7ed8f5681
+
+
+
